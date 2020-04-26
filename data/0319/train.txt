@@ -1,0 +1,129 @@
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111112.jpg 29,16,163,161,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111113.jpg 68,105,109,144,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111114.jpg 66,119,162,188,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111115.jpg 37,29,103,72,0 104,155,148,191,0 105,24,154,49,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111116.jpg 124,72,196,138,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111117.jpg 69,31,84,51,0 15,63,59,88,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111118.jpg 163,69,318,264,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111119.jpg 101,103,137,138,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111120.jpg 81,62,159,124,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111121.jpg 75,50,399,246,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111122.jpg 181,38,456,285,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111123.jpg 21,14,208,210,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111124.jpg 21,49,159,125,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111125.jpg 10,21,341,320,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111126.jpg 30,129,125,197,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111127.jpg 49,66,292,240,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111128.jpg 97,92,253,229,0 276,22,385,188,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111130.jpg 68,28,250,188,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111131.jpg 1,2,498,374,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111132.jpg 51,22,248,139,0 172,61,426,227,0 333,10,486,163,0 72,154,252,270,0 15,229,217,313,0 16,102,89,227,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111133.jpg 36,39,202,183,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111134.jpg 178,36,440,229,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111135.jpg 25,57,175,216,0 45,3,116,55,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111136.jpg 107,8,320,158,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111137.jpg 155,149,284,223,0 181,237,258,300,0 306,112,376,174,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111138.jpg 58,18,278,240,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111139.jpg 16,30,280,264,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111140.jpg 83,3,460,351,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111141.jpg 1,94,53,130,0 46,148,96,185,0 117,73,159,107,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111142.jpg 6,3,490,316,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111143.jpg 1,3,428,324,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111144.jpg 118,71,198,151,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111145.jpg 205,137,265,195,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111146.jpg 52,9,252,216,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111147.jpg 112,16,486,310,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111148.jpg 66,30,161,89,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111149.jpg 15,26,218,224,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111150.jpg 72,22,288,226,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111151.jpg 1,153,353,390,0 319,36,497,129,0 323,299,500,398,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111152.jpg 49,9,104,50,0 12,52,59,95,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111153.jpg 31,40,205,201,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111154.jpg 1,95,63,169,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111155.jpg 55,57,176,158,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111156.jpg 222,119,297,190,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111157.jpg 80,92,244,247,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111158.jpg 1,29,236,240,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111159.jpg 166,134,296,282,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111160.jpg 93,45,240,179,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111163.jpg 4,10,369,220,0 248,217,374,291,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111165.jpg 58,91,118,194,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111166.jpg 63,1,487,374,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111168.jpg 247,59,341,147,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111169.jpg 67,1,500,241,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111171.jpg 26,12,182,201,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111172.jpg 1,24,320,212,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111173.jpg 142,78,190,120,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111174.jpg 65,8,411,299,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111175.jpg 72,21,278,108,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111176.jpg 78,1,240,132,0 158,50,302,199,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111177.jpg 108,96,176,157,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111178.jpg 2,3,499,329,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111179.jpg 108,50,215,172,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111180.jpg 1,2,500,375,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111181.jpg 1,1,180,124,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111182.jpg 1,24,493,362,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111183.jpg 282,36,447,217,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111184.jpg 1,15,73,103,0 85,17,184,240,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111185.jpg 78,154,207,234,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111186.jpg 169,84,257,171,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111187.jpg 1,7,107,114,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111188.jpg 150,65,419,299,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111189.jpg 9,99,65,134,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111190.jpg 113,158,149,193,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111192.jpg 98,13,382,316,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111193.jpg 63,18,258,219,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111194.jpg 59,47,116,89,0 151,39,204,88,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111195.jpg 67,163,106,195,0 39,35,180,123,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111196.jpg 78,94,106,141,0 98,83,141,111,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111198.jpg 91,185,126,212,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111199.jpg 145,101,311,288,0 269,94,500,337,0 100,309,293,375,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111200.jpg 1,16,320,212,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111201.jpg 5,81,155,213,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111202.jpg 108,105,225,207,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111203.jpg 95,28,246,188,0 1,165,73,232,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111204.jpg 119,66,312,233,0 374,26,447,138,0 406,235,458,333,0 427,201,490,306,0 1,143,70,252,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111205.jpg 44,87,113,160,0 114,5,201,111,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111206.jpg 12,71,51,121,0 48,57,88,108,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111207.jpg 18,83,135,199,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111208.jpg 17,43,187,192,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111209.jpg 161,90,260,159,0 193,187,245,231,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111210.jpg 69,6,268,219,0 39,9,68,51,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111211.jpg 116,29,247,157,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111212.jpg 26,59,182,137,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111213.jpg 53,167,173,284,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111214.jpg 29,1,298,213,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111215.jpg 32,161,95,236,0 129,16,158,50,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111217.jpg 72,40,159,115,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111218.jpg 160,10,462,325,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111219.jpg 7,5,245,189,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111220.jpg 1,1,242,240,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111221.jpg 32,1,387,375,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111222.jpg 1,9,156,122,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111223.jpg 101,1,393,254,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111224.jpg 50,32,123,100,0 56,92,156,181,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111225.jpg 25,30,152,159,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111226.jpg 80,89,335,308,0 186,6,416,193,0 1,108,102,297,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111227.jpg 148,1,280,101,0 314,248,441,300,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111228.jpg 112,157,132,180,0 76,190,89,208,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111229.jpg 99,75,160,139,0 69,107,106,146,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111230.jpg 244,54,457,274,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111231.jpg 126,58,253,197,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111232.jpg 79,33,275,193,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111233.jpg 79,73,164,141,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111235.jpg 50,66,197,175,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111236.jpg 20,15,234,200,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111237.jpg 63,25,177,112,0 99,78,217,199,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111238.jpg 103,87,173,157,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111239.jpg 20,87,77,138,0 15,120,73,168,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111240.jpg 19,1,251,259,0 238,100,314,174,0 260,19,345,94,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111241.jpg 107,1,315,177,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111242.jpg 156,111,282,238,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111243.jpg 9,24,232,221,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111244.jpg 35,23,147,134,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111247.jpg 57,1,500,330,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111248.jpg 27,13,148,136,0 24,109,159,210,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111250.jpg 26,49,93,104,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111251.jpg 18,1,145,123,0 87,52,164,139,0 205,43,287,128,0 245,117,310,183,0 262,176,288,200,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111252.jpg 33,85,84,146,0 70,84,113,133,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111253.jpg 25,3,200,213,0 161,8,304,185,0

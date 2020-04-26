@@ -1,0 +1,2 @@
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111111.jpg 65,25,267,192,0
+C:\Users\fengx\Desktop\yolo\YOLOv3_TensorFlow-master\YOLOv3_TensorFlow-master\data\my_data/VOCdevkit/VOC2007_flower/JPEGImages/1111170.jpg 38,29,148,117,0 176,108,280,229,0
